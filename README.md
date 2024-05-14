@@ -1,11 +1,11 @@
-<h1 align="center">Buckle Up its Design Time 🖌️ I'm Ash</h1>
+<h1 align="center">Buckle Up, its Design Time 🖌️</h1>
+<h1 align="center"> I'm Ash 🔮</h1>
 <h3 align="center">The Ash Lab: Where Design Rises From the Ashes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theashlab&label=Profile%20views&color=0e75b6&style=flat" alt="theashlab" /> </p>
 
 - 💬 Ask me about **User Experience**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
