@@ -12,6 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theashlab&" alt="theashlab" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theashlab&" alt="theashlab" /></p> <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=theashlab&show_icons=true&locale=en" alt="theashlab" /></p>
 
 
