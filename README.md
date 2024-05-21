@@ -20,7 +20,7 @@
 - ✨ Student for life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💬 Ask me about **User Experience**
-- 💁‍♂️ 
+- 🎨 
 - ✍ 
 - ❤ 
 - 💻 
