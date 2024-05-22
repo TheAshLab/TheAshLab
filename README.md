@@ -20,10 +20,10 @@
 - ✨ Student for life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💬 Ask me about **User Experience**
-- 🎨 
-- ✍ 
-- ❤ 
-- 💻 
+- 🎨 Where Creativity Meets Usability
+- ✍ Design Detective: Finding user needs, building great apps
+- ❤ Make It Easy: User-friendly designs for happy users
+- 💻 UX Flow: Smooth user journeys, one click at a time
 <!--End Intro-->
 
 <!--Profile Count Badge-->
