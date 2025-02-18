@@ -1,5 +1,5 @@
 <!--Banner-->
-![TheAshLab Banner Image](https://pbs.twimg.com/profile_banners/1764936996999385088/1716010728/1500x500)
+![TheAshLab Banner Image](https://x.com/AswathyKV_/header_photo)
 
 <h1 align="center">Buckle Up, its Design Time 🔮</h1>
 <h3 align="center">The Ash Lab: Where Design Rises From the Ashes</h3>
